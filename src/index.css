@@ -159,7 +159,7 @@ html{
  * SECTION-HERO *
  ****************/
  .hero{
-background-image: url("../../public/img/background.webp");
+/*background-image: url("../../public/img/background.webp");*/
    background-repeat: no-repeat;
    background-attachment: fixed;
    background-size: cover;
@@ -284,7 +284,7 @@ background-image: url("../../public/img/background.webp");
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: url("../../public/img/obra.webp");
+  background-image: url("../public/img/obra.webp");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -495,7 +495,7 @@ background-image: url("../../public/img/background.webp");
 .cube {
   width: 100%;
   height: 95%; 
-  background-image: url("../../public/img/cube.webp");
+  /*background-image: url("../public/img/cube.webp");*/
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -518,7 +518,7 @@ background-image: url("../../public/img/background.webp");
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: url("../../public/img/cube.webp");
+  background-image: url("../public/img/cube.webp");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
