@@ -174,7 +174,7 @@ background-image: url("../../public/img/background.webp");
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: url("../../public/img/background.webp");
+  background-image: url("../public/img/background.webp");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
