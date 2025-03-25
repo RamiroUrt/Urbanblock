@@ -1,4 +1,4 @@
-import FlowingMenu from './FlowingMenu'
+import FlowingMenu from './FLowingMenu';
 
 const demoItems = [
     { link: '#', text: 'Innovación', image: '../../../public/img/menu/hero.webp' },
