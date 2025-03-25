@@ -1,6 +1,6 @@
 import React from 'react'
 import Navbar from '../Navbar'
-import Logo from '../../../public/img/logo.webp'
+import Logo from '../../../public/img/Logo.webp'
 import AbuotUs from './AbuotUs'
 import Services from './Services'
 import ContactUs from './ContactUs'
