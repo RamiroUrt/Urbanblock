@@ -107,7 +107,7 @@ function Footer() {
             <div className="contact-info">
               <div className="contact-item">
                 <MapPin className="contact-icon" />
-                <span className="footer-link">Av. Principal 123, Ciudad, País</span>
+                <span className="footer-link">Av. Principal 123, Palermo</span>
               </div>
               <div className="contact-item">
                 <Phone className="contact-icon" />
@@ -115,7 +115,7 @@ function Footer() {
               </div>
               <div className="contact-item">
                 <Mail className="contact-icon" />
-                <span  className="footer-link">info@constructoraxyz.com</span>
+                <span  className="footer-link">info@urbanblock.com</span>
               </div>
             </div>
           </div>
@@ -123,7 +123,7 @@ function Footer() {
 
         <div className="footer-bottom">
         <div className="line"></div>
-          <p>© {new Date().getFullYear()} Constructora XYZ. Todos los derechos reservados.</p>
+          <p>© {new Date().getFullYear()} Urbanblock. Todos los derechos reservados.</p>
         </div>
       </div>
     </footer>
