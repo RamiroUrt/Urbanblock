@@ -21,11 +21,11 @@ export default function Navbar() {
         <div className="top-bar-left">
             <div className="bar-container">
                 <img src={Telefphone} alt="" />
-                <p>1-800-555-1234</p>
+                <p>+123 456 7890</p>
             </div>
             <div className="bar-container">
               <img src={Mail} alt="" />
-              <p>info@emarat.com</p>
+              <p>info@urbanblock.com</p>
             </div>
             <div className="bar-container">
               <img src={Time} alt="" />
@@ -95,11 +95,11 @@ export default function Navbar() {
               <h3 className="mobile-section-title">Contacto</h3>
               <div className="mobile-contact-item">
               <img src={Telefphone} alt="" />
-                <p>1-800-555-1234</p>
+                <p>+123 456 7890</p>
               </div>
               <div className="mobile-contact-item">
               <img src={Mail} alt="" />
-                <p>info@emarat.com</p>
+                <p>info@urbanblock.com</p>
               </div>
               <div className="mobile-contact-item">
               <img src={Time} alt="" />
