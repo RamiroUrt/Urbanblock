@@ -1155,6 +1155,16 @@ h2{
   margin: 0 auto;
   flex-direction: column;
 }
+    canvas{
+  width: 100%;
+  height: 200px;
+  display: block;
+  align-items: center;
+}
+.model-contain{
+  width: 90%;
+  height: 600px;
+}
 }
 
 
